@@ -74,7 +74,7 @@
     "@waltz-controls/waltz-user-actions-plugin": "^2.0.6",
     "@waltz-controls/waltz-user-context-plugin": "^2.0.0",
     "@waltz-controls/waltz-webix-extensions": "^1.0.14",
-    "codemirror": "^5.54.0",
+    "codemirror": "^5.58.2",
     "jquery": "^3.5.1",
     "plotly.js-dist": "^1.54.2",
     "rxjs": "^6.5.5",
